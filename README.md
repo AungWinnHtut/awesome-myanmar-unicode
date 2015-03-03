@@ -32,6 +32,7 @@ A curated list of resources for Myanmar Unicode.
 * [Myanmar Sagar](https://github.com/khmertype/MyanmarSagar)
 * [Myanmar Sabae](https://github.com/khmertype/MyanmarSabae)
 * [Myanmar Nijaun](https://github.com/khmertype/MyanmarNjaun)
+* [MyMyanmar](http://www.mymyanmar.net/Universal.php)
 
 ## Browser Extensions
 
